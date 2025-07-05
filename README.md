@@ -45,6 +45,14 @@
 
 ---
 
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanidhya46&show_icons=true&theme=gotham" alt="Sanidhya46's GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=Sanidhya46&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 📊 Most Used Languages
 
 <p align="center">
@@ -67,13 +75,7 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanidhya46&show_icons=true&theme=gotham" alt="Sanidhya46's GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=Sanidhya46&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=radical" alt="GitHub Streak" />
-</p>
 
----
 
 ## 📈 Languages & Activity  
 <p align="center">
