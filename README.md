@@ -37,13 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
 </p>
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sanidhya46/Sanidhya46/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%" />
-</p>
-
----
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -68,17 +62,9 @@
 
 ---
 
-## 🕹️ Fun GIF  
+## 🕹️ Lemme Find a Bug 🔎
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sanidhya46/Sanidhya46/refs/heads/main/laptop.gif" alt="Snake GIF" width="300"/>
 </p>
 
 ---
-
-
-
-## 📈 Languages & Activity  
-<p align="center">
-  <img src="https://github.com/Sanidhya46/Sanidhya46/blob/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanidhya46&layout=pie" alt="Top languages" width="300"/>
-</p>
