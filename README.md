@@ -1,98 +1,87 @@
-﻿<!-- Intro GIF with alt text and optional link -->
+<!-- Intro GIF -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sanidhya46/Sanidhya46/refs/heads/main/a6a2a1da32e7c2a5ea6901e29161bded.gif" alt="Hello there, I am Sanidhya Shukla" width="200"/>
+</p>
 
+<h1 align="center">👋 Hello there, I’m **Sanidhya Shukla**</h1>
+<p align="center">
+  <em>Software Developer | AI & Web Enthusiast</em>
+</p>
 
-<a href="https://github.com/Sanidhya46">
-  <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Sanidhya(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Sanidhya(111|nd Li)|https://Sanidhya.li)"
-       alt="👋 Hi there! I'm Sanidhya" 
-       title="👋 Hi there! I'm Sanidhya" />
-</a>
+<!-- Visitor Badge -->
+<p align="center">
+  <a href="https://vbr.nathanchung.dev/badge?page_id=Sanidhya46.Sanidhya46">
+    <img src="https://vbr.nathanchung.dev/badge?page_id=Sanidhya46.Sanidhya46&color=00cf00" alt="Visitor Badge"/>
+  </a>
+</p>
 
-<!-- Visitor Badge with your correct GitHub page_id -->
-<a href="https://vbr.nathanchung.dev/badge?page_id=Sanidhya46.Sanidhya46">
-  <img src="https://vbr.nathanchung.dev/badge?page_id=Sanidhya46.Sanidhya46&color=00cf00" 
-       alt="Visitor Badge" />
-</a>
+---
 
 ## 📄 Resume  
 🔗 **[Download My Resume](https://raw.githubusercontent.com/Sanidhya46/Certificates/main/Sanidhya_Shukla_Resume.pdf)**
 
 ---
-# Sanidhya46
 
-<!-- ### Hi there 👋
+## 🏅 Certificates
+### Innovathon – 2nd Place  
+![Innovathon Certificate](https://raw.githubusercontent.com/Sanidhya46/Certificates/refs/heads/main/91ce181e-d08e-4d96-a64e-0c4d1ea12724.jpg)
 
-* 👂 My name is ...
-* 👩 Pronouns: ...
-* 🔭 I’m currently working on experiment simulator IIT kanpur project
-* 🌱 I’m currently learning ...
-* 🤝 I’m looking to collaborate on ...
-* 🤔 I’m looking for help with ...
-* 💬 Ask me about ...
-* 📫 How to reach me: ...
-* ❤️ I love ...
-* ⚡ Fun fact: ... -->
+---
 
+## 🎯 Skills & Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
+</p>
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://raw.githubusercontent.com/Sanidhya46/Sanidhya46/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%" />
 </p>
+
+---
+
+## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanidhya46&layout=pie&theme=radical" width="350" alt="Top Languages Pie Chart" />
 </p>
 
-<a href="https://www.python.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sanidhya46&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sanidhya46&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-<!-- (https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-dfgsdgfd -->
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="php" width="45" height="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="php" width="45" height="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="php" width="45" height="45"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C++/C++-original.svg" alt="php" width="45" height="45"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="php" width="45" height="45"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="php" width="45" height="45"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgres-sql/postgres-sql-original.svg" alt="php" width="45" height="45"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="php" width="45" height="45"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="php" width="45" height="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="php" width="45" height="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="php" width="45" height="45"/>
-
-
-<img src="https://streak-stats.demolab.com/?user=Sanidhya46&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=radical" alt="GitHub Streak" />
-
-
-
-
+## 🐍 I Love Python  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sanidhya46/Sanidhya46/refs/heads/main/03SNAKE-GIF-articleLarge.gif" alt="I love Python" width="200"/>
 </p>
 
-<img src = "https://github.com/Sanidhya46/Sanidhya46/blob/output/github-contribution-grid-snake.svg" alt ="snake animation" width="150" height="70"/>
+---
 
+## 🕹️ Fun GIF  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sanidhya46/Sanidhya46/refs/heads/main/03SNAKE-GIF-articleLarge.gif" alt="Snake GIF" width="300"/>
+</p>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie" alt = "hello" width="150" height="70"/>
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanidhya46&show_icons=true&theme=gotham" alt="Sanidhya46's GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=Sanidhya46&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Languages & Activity  
+<p align="center">
+  <img src="https://github.com/Sanidhya46/Sanidhya46/blob/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanidhya46&layout=pie" alt="Top languages" width="300"/>
+</p>
