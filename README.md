@@ -70,7 +70,7 @@
 
 ## 🕹️ Fun GIF  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sanidhya46/Sanidhya46/refs/heads/main/03SNAKE-GIF-articleLarge.gif" alt="Snake GIF" width="300"/>
+  <img src="https://raw.githubusercontent.com/Sanidhya46/Sanidhya46/refs/heads/main/laptop.gif" alt="Snake GIF" width="300"/>
 </p>
 
 ---
