@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/Sanidhya46/Sanidhya46/refs/heads/main/a6a2a1da32e7c2a5ea6901e29161bded.gif" alt="Hello there, I am Sanidhya Shukla" width="200"/>
 </p>
 
-<h1 align="center">👋 Hello there, I’m **Sanidhya Shukla**</h1>
+<h1 align="center">👋 Hello there, I’m Sanidhya Shukla </h1>
 <p align="center">
   <em>Software Developer | AI & Web Enthusiast</em>
 </p>
