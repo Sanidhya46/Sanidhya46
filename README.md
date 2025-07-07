@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hello there, I’m Sanidhya Shukla </h1>
 <p align="center">
-  <em>Software Developer | AI & Web Enthusiast</em>
+  <em>Software Developer Intern | AI & Web Enthusiast</em>
 </p>
 
 <!-- Visitor Badge -->
